@@ -13,4 +13,4 @@ Rules of fat arrow functions:
   <li>If the function has a single argument, the parentheses around the argument list can be removed.</li>
 </ol>
 
-[ES6 Code Examples]: https://github.com/yenly/es6_javascript/blob/master/fat_arrow_functions.js
+[ES6 Code Examples] (https://github.com/yenly/es6_javascript/blob/master/fat_arrow_functions.js)
