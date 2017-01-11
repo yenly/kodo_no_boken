@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ECMAScript on Exercism.io
-date:   2017-01-011 10:49:00 -0800
+date:   2017-01-11 10:49:00 -0800
 categories: ES6
 ---
 
