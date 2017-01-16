@@ -10,7 +10,7 @@ Today I learned two clear examples of when to use destructuring.
 <ol>
   <li>Example of why we destructure an object:
     <p>When we need to pass a long argument list to a function. Instead of hardcoding the list, we should create an object with the arguments with properties. Then pass this object into the function and the function will destructure out the properties. The benefits are the list can grow dynamically and we do not need to know the order of the properties.</p>
-    {% hightlight javascript %}
+    ```javascript
       const user = {
         username: 'myname',
         password: 'mypassword',
@@ -24,12 +24,12 @@ Today I learned two clear examples of when to use destructuring.
       }
 
       signup(user);
-    {% endhighlight %}
+    ```
   </li>
 
   <li>Example of why we destructure an array
     <p>When we need to process a long list of arrays in an array usually pulled in from API. We use map function to transform the embedded arrays to objects for more meaningful use.</p>
-    {% hightlight javascript %}
+    ```javascript
       const points = [
         [4, 5],
         [10, 1],
@@ -44,7 +44,7 @@ Today I learned two clear examples of when to use destructuring.
         // return { x: x, y: y };
         return { x, y }; // uses object literal to condense code more
       });
-    {% endhighlight %}
+    ```
   </li>
 </ol>
 
