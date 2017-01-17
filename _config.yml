@@ -24,6 +24,7 @@ github_username:  yenly
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 theme: minima
 gems:
   - jekyll-feed
