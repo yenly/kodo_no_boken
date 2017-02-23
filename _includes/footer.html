@@ -1,0 +1,53 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+            {% if site.author %}
+              {{ site.author | escape }}
+            {% else %}
+              {{ site.title | escape }}
+            {% endif %}
+            </li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          {% if site.email %}
+          <li><a href="mailto:{{ site.email }}"><i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a></li>
+          {% endif %}
+          {% if site.github_username %}
+          <li>
+            <a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+          </li>
+          {% endif %}
+
+          {% if site.instagram_username %}
+          <li>
+            <a href="https://www.instagram.com/{{ site.instagram_username }}"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            <a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+          </li>
+          {% endif %}
+          <li>
+            <a href="{{ "/feed.xml" | relative_url }}"><i class="fa fa-rss fa-2x" aria-hidden="true"></i></a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{ site.description | escape }}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
