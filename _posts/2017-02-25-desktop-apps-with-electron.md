@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Workshop - Building Desktop Apps with JavaScript & Electron
+title:  "Workshop: Building Desktop Apps with JavaScript & Electron"
 date:   2017-02-25 01:37:56 -0800
 categories: Workshop
 tags: Electron, JavaScript, ES6
@@ -10,9 +10,9 @@ Today I learned how to build a simple desktop code editor using Node and Electro
 
 
 Helpful resources:
-* (ECMAScript 6: A Quick Intro)[https://felixrieseberg.com/ecmascript6-introduction/]
-* (Electron)[http://electron.atom.io/]
-* (Electron Forge)[https://github.com/electron-userland/electron-forge]
-* (Monaco Editor Loader)[https://github.com/felixrieseberg/monaco-loader]
-* (Electron Code Editor)[https://github.com/felixrieseberg/electron-code-editor]
-* (Electron Workshop Code Example)[https://github.com/yenly/electron_workshop]
+* [ECMAScript 6: A Quick Intro](https://felixrieseberg.com/ecmascript6-introduction/)
+* [Electron](http://electron.atom.io/)
+* [Electron Forge](https://github.com/electron-userland/electron-forge)
+* [Monaco Editor Loader](https://github.com/felixrieseberg/monaco-loader)
+* [Electron Code Editor](https://github.com/felixrieseberg/electron-code-editor)
+* [Electron Workshop Code Example](https://github.com/yenly/electron_workshop)
