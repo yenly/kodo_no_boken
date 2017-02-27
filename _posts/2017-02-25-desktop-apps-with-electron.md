@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Workshop: Building Desktop Apps with JavaScript & Electron"
-date:   2017-02-25 01:37:56 -0800
+date:   2017-02-25 13:37:56 -0800
 categories: Workshop
 tags: Electron, JavaScript, ES6
 ---
