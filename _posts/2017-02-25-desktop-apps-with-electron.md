@@ -6,7 +6,7 @@ categories: Workshop
 tags: Electron, JavaScript, ES6
 ---
 
-Today I learned how to build a simple desktop code editor using Node and Electron. We step through the process of building from scratch using Electron core API library. At the end of the workshop, our instructor, Felix informed us of how troublesome the build process is to generate binary installs for cross platforms. Then he introduced Electron Forge which is a CLI with build tools to quickly and easily build Electron apps. Next step in learning exercise is to use Electron Forge to build the simple code editor all the way to completion with binary and install packages as endgame.
+Today I learned how to build a simple desktop code editor using Node and Electron. We stepped through the process of building from scratch using Electron core API library. At the end of the workshop, our instructor, Felix informed us of how troublesome the build process is to generate binary installs for cross platform. Then he introduced Electron Forge which is a CLI with build tools to quickly and easily build Electron apps. Next step in learning exercise is to use Electron Forge to build the simple code editor all the way to completion with binary and install packages as endgame.
 
 
 Helpful resources:
