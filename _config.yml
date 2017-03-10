@@ -28,6 +28,7 @@ instagram_username: mindfullycrafts
 markdown: kramdown
 highlighter: rouge
 theme: minima
+timezone: America/Los_Angeles
 
 gems:
   - jekyll-feed
