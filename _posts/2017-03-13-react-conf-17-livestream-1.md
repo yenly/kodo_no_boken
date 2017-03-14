@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  React Conf 2017 Livestream
+title:  React Conf 2017 Livestream Day 1
 date:   2017-03-13 4:17:00 -0800
 categories: React
 tags: React
@@ -11,6 +11,7 @@ Today I tuned into the [React Conf 2017 Livestream](http://conf.reactjs.org/). M
 ### Helpful resources to revisit and learn from:
 * [React + ES.next = ♥](https://github.com/benmvp/react-esnext)
 * [Flow - a static type checker for javascript](https://flowtype.org/)
+* [Type Systems will make you a better JavaScript programmer](https://t.co/KHmOauTNAE)
 * [A 5-minute Intro to Styled Components](https://medium.freecodecamp.com/a-5-minute-intro-to-styled-components-41f40eb7cd55#.dpqp5jhpp)
 * [Styled Components Github Repo](https://github.com/styled-components/styled-components)
 * [Create React Native App tool](https://facebook.github.io/react-native/blog/2017/03/13/introducing-create-react-native-app.html)
