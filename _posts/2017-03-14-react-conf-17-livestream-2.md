@@ -15,4 +15,4 @@ tags: React
 * [Jest](https://facebook.github.io/jest/)
 * [React-Storybook](https://getstorybook.io/)
 * [React Storybook - Airbnb.io](http://airbnb.io/react-dates/)
-* [React-Router 4](https://reacttraining.com/react-router/)
+* [React-Router 4](https://reacttraining.com/react-router/) - Learn Once, Route Everywhere
