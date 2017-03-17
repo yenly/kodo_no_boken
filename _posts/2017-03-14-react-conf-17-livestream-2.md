@@ -7,7 +7,7 @@ tags: React
 ---
 
 ### Helpful resources to revisit and learn from:
-* [React VR Talk](https://www.youtube.com/watch?v=CtVo3z_o9Rw) by [Michael Lehr](https://geildanke.com/GEILDANKE/en/vr/)
+* [React VR Talk](https://www.youtube.com/watch?v=CtVo3z_o9Rw) by [Michaela Lehr](https://geildanke.com/GEILDANKE/en/vr/)
 * [An Intoduction to ReactVR](https://t.co/3HPeRao3zz)
 * [React VR Docs](https://facebookincubator.github.io/react-vr/docs/getting-started.html)
 * [GraphQL](http://graphql.org/)
