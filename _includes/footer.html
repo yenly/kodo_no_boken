@@ -7,7 +7,7 @@
         <ul class="contact-list">
           <li>
             {% if site.author %}
-              {{ site.author | escape }}
+              <a href="{{ site.url }}">{{ site.author | escape }}</a>
             {% else %}
               {{ site.title | escape }}
             {% endif %}

@@ -19,7 +19,7 @@ email: yencodes@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Kōdo No Bōken (コードの冒険) translates to Code Adventures.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yenly.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mindfullycrafts
 github_username:  yenly
 instagram_username: mindfullycrafts
