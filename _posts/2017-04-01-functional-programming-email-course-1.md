@@ -8,7 +8,7 @@ tags: JavaScript FunctionalProgramming
 
 Following are my notes to the first half of Functional Programming Email course by Preethi Kashireddy for future review.
 
-##Functional Programming is a way of writing code.
+### Functional Programming is a way of writing code.
 
 Every software program has two things: behavior and data.
 * Behavior is handled purely using functions. Functions are "self-contained" pieces of code that accomplish a specific task; defines relationship between set of possible inputs and outputs.
@@ -16,7 +16,7 @@ Every software program has two things: behavior and data.
 
 Break any complex problem down into smaller subproblems, solve them using functions, and finally combine them together to solve the bigger problem.
 
-##Pure Functions
+### Pure Functions
 
 Two qualities to make a function "pure"
 1. Function depends only on the input provided to it to produce a result (and not on any external state).
@@ -29,7 +29,7 @@ Benefits:
 
 Ultimate goal is not to eliminate side effects, but to confine them.
 
-#Immutability
+### Immutability
 
 Immutable data means it's state cannot change after it's created. To create an immutable object, create a new object with the changed value and point your reference to it. In In JS, all primitive types (String, Number, Boolean, Null, Undefined, Symbol) are inherently immutable.
 
@@ -46,7 +46,7 @@ Why does it matter?
 * Avoid temporal coupling.
 * Eliminate defensive copies.
 
-#Referential Transparency
+### Referential Transparency
 
 If a function consistently yields the same result for the same input, it is referentially transparent. Referential transparency gives us the ability to freely replace an express with its value and not change the behavior of the program.
 
