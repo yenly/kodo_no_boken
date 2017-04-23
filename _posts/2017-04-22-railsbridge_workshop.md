@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Workshop: Railsbridge Ruby on Rails Workshop at Instacart"
+title:  Railsbridge Ruby on Rails Workshop at Instacart
 date:   2017-04-22 10:00:00 -0800
 categories: Workshop RubyOnRails
 tags: Ruby Rails
